@@ -8,7 +8,7 @@
 Este repositorio contiene la solución del Taller 4, con los ejercicios solicitados,
 desarrollados en Java y listos para su ejecución.
 
-# Funcinalidades
+# Funcionalidades
 Registro de Clientes 
 Generacion de Facturas
 Almacenamiento en Archivo.txt
