@@ -1,0 +1,8 @@
+0001 | Francisco Zamora | $10,89 | Pagada
+0002 | Leonardo Aguilar | $5,65 | Pendiente
+0003 | Adely Tello | $7,45 | Pagada
+0004 | Liliana Vernaza | $8,75 | Pagada
+0005 | Katherine Valverde | $10,95 | Pendiente
+0006 | Cielo Campoverde | $8,45 | Pagada
+0007 | Anthony Jara | $22 | Pagada
+0008 | Jacqueline Palomeque | $21,99 | Pagada
